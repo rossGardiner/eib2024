@@ -1,0 +1,25 @@
+Coastal Seas
+Deserts
+Forests
+Freshwater
+Grasslands
+Mountains
+Open Ocean
+Polar
+Rivers
+Rural
+Urban
+Wetlands
+
+a photo in Coastal Seas habitat",
+            "a photo in Deserts habitat",
+            "a photo in Forests habitat",
+            "a photo in Freshwater habitat",
+            "a photo in Grasslands habitat",
+            "a photo in Mountains habitat",
+            "a photo in Open Ocean habitat",
+            "a photo in Polar habitat",
+            "a photo in Rivers habitat",
+            "a photo in Rural habitat",
+            "a photo in Urban habitat",
+            "a photo in Wetlands habitat"
